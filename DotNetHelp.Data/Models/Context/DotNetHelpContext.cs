@@ -12,7 +12,7 @@ namespace DotNetHelp.Data.Models.Context
         }
 
         public DotNetHelpContext()
-            : base("Name=DotNetHelpContext")
+            : base("Name=DotNetHelpContext") 
         {
         }
 
