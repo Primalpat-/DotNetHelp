@@ -5,3 +5,8 @@ C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Data\bin\Debug\DotNetH
 C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Data\obj\Debug\DotNetHelp.Data.csprojResolveAssemblyReference.cache
 C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Data\obj\Debug\DotNetHelp.Data.dll
 C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Data\obj\Debug\DotNetHelp.Data.pdb
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Data\bin\Debug\DotNetHelp.Data.dll.config
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Data\bin\Debug\EntityFramework.dll
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Data\bin\Debug\EntityFramework.xml
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Data\bin\Debug\EntityFramework.SqlServer.xml

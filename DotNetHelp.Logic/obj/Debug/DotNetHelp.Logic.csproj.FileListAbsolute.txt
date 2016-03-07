@@ -7,3 +7,5 @@ C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\bin\Debug\DotNet
 C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\obj\Debug\DotNetHelp.Logic.csprojResolveAssemblyReference.cache
 C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\obj\Debug\DotNetHelp.Logic.dll
 C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\obj\Debug\DotNetHelp.Logic.pdb
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\bin\Debug\EntityFramework.dll
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\bin\Debug\EntityFramework.xml

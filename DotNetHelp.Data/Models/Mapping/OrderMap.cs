@@ -1,4 +1,4 @@
-using System.ComponentModel.DataAnnotations;
+using DotNetHelp.Core.Entities;
 using System.Data.Entity.ModelConfiguration;
 
 namespace DotNetHelp.Data.Models.Mapping
