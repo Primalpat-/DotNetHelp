@@ -1,0 +1,5 @@
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Core\bin\Debug\DotNetHelp.Core.dll
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Core\bin\Debug\DotNetHelp.Core.pdb
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Core\obj\Debug\DotNetHelp.Core.csprojResolveAssemblyReference.cache
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Core\obj\Debug\DotNetHelp.Core.dll
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Core\obj\Debug\DotNetHelp.Core.pdb

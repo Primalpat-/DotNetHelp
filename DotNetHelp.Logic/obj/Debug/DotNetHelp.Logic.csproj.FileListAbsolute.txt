@@ -1,0 +1,9 @@
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\bin\Debug\DotNetHelp.Logic.dll
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\bin\Debug\DotNetHelp.Logic.pdb
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\bin\Debug\DotNetHelp.Core.dll
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\bin\Debug\DotNetHelp.Data.dll
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\bin\Debug\DotNetHelp.Core.pdb
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\bin\Debug\DotNetHelp.Data.pdb
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\obj\Debug\DotNetHelp.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\obj\Debug\DotNetHelp.Logic.dll
+C:\Users\Primalpat\Documents\GitHub\DotNetHelp\DotNetHelp.Logic\obj\Debug\DotNetHelp.Logic.pdb

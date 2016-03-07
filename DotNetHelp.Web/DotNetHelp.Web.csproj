@@ -207,6 +207,16 @@
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DotNetHelp.Core\DotNetHelp.Core.csproj">
+      <Project>{0783cdd3-18b4-4618-a4cc-6bb253d4f57e}</Project>
+      <Name>DotNetHelp.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DotNetHelp.Logic\DotNetHelp.Logic.csproj">
+      <Project>{e80b660e-5555-44c8-a149-6a3b3244e92f}</Project>
+      <Name>DotNetHelp.Logic</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
