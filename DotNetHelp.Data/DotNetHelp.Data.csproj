@@ -49,11 +49,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\DotNetHelpContext.cs" />
-    <Compile Include="Models\Item.cs" />
+    <Compile Include="Models\Context\DotNetHelpContext.cs" />
     <Compile Include="Models\Mapping\ItemMap.cs" />
     <Compile Include="Models\Mapping\OrderMap.cs" />
-    <Compile Include="Models\Order.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
